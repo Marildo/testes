@@ -22,6 +22,6 @@ function Controller2() {
     };
 }
 
-module.exports = Controller2
+//module.exports = Controller2
 
-//export default Controller2
+export default Controller2

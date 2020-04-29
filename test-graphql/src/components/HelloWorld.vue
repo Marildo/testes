@@ -9,7 +9,7 @@
 </template>
 
 <script>
-const Controller2 = require("../controller");
+import Controller2 from "../controller";
 
 /*
 import gql from "graphql-tag";
